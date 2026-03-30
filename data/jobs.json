@@ -21953,7 +21953,7 @@
     ],
     "seniority": "principal",
     "ats": "lever",
-    "verifiedAt": "2026-03-27T23:33:32.207Z",
+    "verifiedAt": "2026-03-29T12:25:10.126Z",
     "scrapedAt": "2026-02-17T23:51:44.776Z",
     "url": "https://wagey.gg/jobs/6c85816fb1c6bc80-smart-working-solutions-salesforce-architect-remote-full-time-as201-at-smart-wor?ref=github",
     "visibility": "full"
@@ -48253,9 +48253,9 @@
   {
     "id": "6fd176b7706e1b4b",
     "title": "Senior AI Engineer",
-    "company": null,
+    "company": "FourKites",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48269,15 +48269,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T03:38:35.832Z",
     "scrapedAt": "2026-03-22T21:55:08.616Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/6fd176b7706e1b4b-senior-ai-engineer-at-fourkites?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f96e1746d44991ae",
     "title": "Senior AI Engineer",
-    "company": null,
+    "company": "FourKites",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48291,15 +48291,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T04:29:16.411Z",
     "scrapedAt": "2026-03-22T22:28:37.368Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f96e1746d44991ae-senior-ai-engineer-at-fourkites?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9ceb90eee0c45441",
     "title": "Product Manager - Data & AI Platforms",
-    "company": null,
+    "company": "FourKites",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48313,15 +48313,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T04:29:21.088Z",
     "scrapedAt": "2026-03-22T22:28:37.652Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9ceb90eee0c45441-product-manager-data-ai-platforms-at-fourkites?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f59b183fe09b802d",
     "title": "Senior Optical Manufacturing Test Engineer - Software Automation",
-    "company": null,
+    "company": "lumilens",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48335,15 +48335,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-27T18:59:43.760Z",
     "scrapedAt": "2026-03-23T01:38:07.414Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f59b183fe09b802d-senior-optical-manufacturing-test-engineer-software-automation-at-lumilens?ref=github",
+    "visibility": "full"
   },
   {
     "id": "924ef99a5ee4fbd7",
     "title": "Director of Silicon Operations",
-    "company": null,
+    "company": "lumilens",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48355,15 +48355,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-27T18:59:45.927Z",
     "scrapedAt": "2026-03-23T01:38:08.031Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/924ef99a5ee4fbd7-director-of-silicon-operations-at-lumilens?ref=github",
+    "visibility": "full"
   },
   {
     "id": "86df300dd8b7dcf5",
     "title": "Platform Engineer",
-    "company": null,
+    "company": "Joist AI",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48377,15 +48377,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-27T23:07:19.780Z",
     "scrapedAt": "2026-03-23T03:24:46.518Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/86df300dd8b7dcf5-platform-engineer-at-joist-ai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f0bbbd04e9039f3d",
     "title": "Senior Platform Engineer",
-    "company": null,
+    "company": "Joist AI",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48399,15 +48399,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-27T23:07:49.081Z",
     "scrapedAt": "2026-03-23T03:25:05.533Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f0bbbd04e9039f3d-senior-platform-engineer-at-joist-ai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "8f45792e2564cbd5",
     "title": "Full Stack Engineer, India - Remote",
-    "company": null,
+    "company": "Joist AI",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48421,15 +48421,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-27T23:07:56.100Z",
     "scrapedAt": "2026-03-23T03:25:15.568Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/8f45792e2564cbd5-full-stack-engineer-india-remote-at-joist-ai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "01173b426eb31211",
     "title": "Senior Territory Account Executive 2 - Singapore",
-    "company": null,
+    "company": "sophos",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -48437,15 +48437,15 @@
     "ats": "lever",
     "verifiedAt": "2026-03-27T21:05:08.645Z",
     "scrapedAt": "2026-03-23T04:47:46.573Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/01173b426eb31211-senior-territory-account-executive-2-singapore-at-sophos?ref=github",
+    "visibility": "full"
   },
   {
     "id": "723b0b129e17b6fd",
     "title": "Administrative & Finance Executive Assistant",
-    "company": null,
+    "company": "lumilens",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48459,15 +48459,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-27T23:32:26.831Z",
     "scrapedAt": "2026-03-23T04:47:48.516Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/723b0b129e17b6fd-administrative-finance-executive-assistant-at-lumilens?ref=github",
+    "visibility": "full"
   },
   {
     "id": "68144c9ca849bd6f",
     "title": "Principal, Strategic AI Sales",
-    "company": null,
+    "company": "Braze",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48481,15 +48481,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-27T20:33:43.503Z",
     "scrapedAt": "2026-03-23T04:47:48.517Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/68144c9ca849bd6f-principal-strategic-ai-sales-at-braze?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b66750062e6158d0",
     "title": "HubSpot Specialist",
-    "company": null,
+    "company": "fulcrum",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48502,15 +48502,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-27T23:32:24.834Z",
     "scrapedAt": "2026-03-23T04:47:49.198Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b66750062e6158d0-hubspot-specialist-at-fulcrum?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b1be022ed5661149",
     "title": "Enablement Manager",
-    "company": null,
+    "company": "deputy",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48524,15 +48524,15 @@
     "ats": "lever",
     "verifiedAt": "2026-03-27T22:05:38.436Z",
     "scrapedAt": "2026-03-23T04:47:50.274Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b1be022ed5661149-enablement-manager-at-deputy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b1609a6317931cad",
     "title": "IT Support Engineer - Shift Schedule",
-    "company": null,
+    "company": "adventus",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -48540,15 +48540,15 @@
     "ats": "lever",
     "verifiedAt": "2026-03-28T00:22:16.574Z",
     "scrapedAt": "2026-03-23T07:59:07.329Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b1609a6317931cad-it-support-engineer-shift-schedule-at-adventus?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e45ef8e3f173eb26",
     "title": "Talent Acquisition Lead",
-    "company": null,
+    "company": "lumilens",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48560,15 +48560,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-28T00:26:14.718Z",
     "scrapedAt": "2026-03-23T07:59:07.626Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e45ef8e3f173eb26-talent-acquisition-lead-at-lumilens?ref=github",
+    "visibility": "full"
   },
   {
     "id": "57cbfe0aed95cc46",
     "title": "Solutions Engineer - Delhi",
-    "company": null,
+    "company": "DevRev",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48582,15 +48582,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:38:41.022Z",
     "scrapedAt": "2026-03-23T07:59:08.674Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/57cbfe0aed95cc46-solutions-engineer-delhi-at-devrev?ref=github",
+    "visibility": "full"
   },
   {
     "id": "72d403c011694360",
     "title": "Growth & AI Initiatives Manager",
-    "company": null,
+    "company": "OKX",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48604,17 +48604,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:38:40.402Z",
     "scrapedAt": "2026-03-23T07:59:09.180Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/72d403c011694360-growth-ai-initiatives-manager-at-okx?ref=github",
+    "visibility": "full"
   },
   {
     "id": "86799cd0d6adfc9f",
     "title": "Manager - Strategy & Operations, APAC",
-    "company": null,
+    "company": "InMobi",
     "region": "APAC",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$104k/year",
+    "salaryMin": 104000,
+    "salaryMax": 104000,
     "skills": [
       "Learning & Development"
     ],
@@ -48622,15 +48622,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:38:34.749Z",
     "scrapedAt": "2026-03-23T07:59:09.224Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/86799cd0d6adfc9f-manager-strategy-operations-apac-at-inmobi?ref=github",
+    "visibility": "full"
   },
   {
     "id": "633efe530c50761e",
     "title": "Principal Product Manager - Brandfolder (Hybrid in Bangalore)",
-    "company": null,
+    "company": "Smartsheet",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48641,15 +48641,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:40:09.802Z",
     "scrapedAt": "2026-03-23T08:24:03.004Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/633efe530c50761e-principal-product-manager-brandfolder-hybrid-in-bangalore-at-smartsheet?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c66967c6c161705d",
     "title": "IoT Field Engineer",
-    "company": null,
+    "company": "Canonical",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48663,15 +48663,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:40:09.757Z",
     "scrapedAt": "2026-03-23T08:24:40.919Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c66967c6c161705d-iot-field-engineer-at-canonical?ref=github",
+    "visibility": "full"
   },
   {
     "id": "0d01e201f6fec713",
     "title": "Computer Validation Analyst I",
-    "company": null,
+    "company": "Precision Medicine Group",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48684,15 +48684,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:40:19.815Z",
     "scrapedAt": "2026-03-23T08:27:42.719Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/0d01e201f6fec713-computer-validation-analyst-i-at-precision-medicine-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "499e96a207e14620",
     "title": "Solutions Engineer",
-    "company": null,
+    "company": "wiz.io",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48706,15 +48706,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:40:41.084Z",
     "scrapedAt": "2026-03-23T08:31:30.512Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/499e96a207e14620-solutions-engineer-at-wiz-io?ref=github",
+    "visibility": "full"
   },
   {
     "id": "18d7a014baadb292",
     "title": "Staff Site Reliability Engineer",
-    "company": null,
+    "company": "AlphaSense",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48728,15 +48728,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:40:45.217Z",
     "scrapedAt": "2026-03-23T08:34:01.727Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/18d7a014baadb292-staff-site-reliability-engineer-at-alphasense?ref=github",
+    "visibility": "full"
   },
   {
     "id": "36fcdec6c8d469c9",
     "title": "Senior Software Engineer Tech Lead   Message Security Detection",
-    "company": null,
+    "company": "Abnormal",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48750,15 +48750,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:42:26.037Z",
     "scrapedAt": "2026-03-23T08:46:09.316Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/36fcdec6c8d469c9-senior-software-engineer-tech-lead-message-security-detection-at-abnormal?ref=github",
+    "visibility": "full"
   },
   {
     "id": "273f6d75302894cc",
     "title": "Sr. Product Manager II, Identity & Authentication (Hybrid in Bangalore)",
-    "company": null,
+    "company": "Smartsheet",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48769,15 +48769,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:44:24.877Z",
     "scrapedAt": "2026-03-23T08:52:34.572Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/273f6d75302894cc-sr-product-manager-ii-identity-authentication-hybrid-in-bangalore-at-smartsheet?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bbe66bfb2c96bbbc",
     "title": "Managed Cloud Detection and Response Analyst",
-    "company": null,
+    "company": "wiz.io",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48791,15 +48791,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:45:03.647Z",
     "scrapedAt": "2026-03-23T08:54:17.923Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bbe66bfb2c96bbbc-managed-cloud-detection-and-response-analyst-at-wiz-io?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bb47ea66a5144bb1",
     "title": "Software Engineer, macOS Core Product - Nagoya, Aichi Prefecture, Japan",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48811,15 +48811,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:45:13.697Z",
     "scrapedAt": "2026-03-23T08:56:13.126Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bb47ea66a5144bb1-software-engineer-macos-core-product-nagoya-aichi-prefecture-japan-at-speechify?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2a59df1b4fc5f830",
     "title": "Tech Lead, Android Core Product - Ho Chi Minh City, Vietnam",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48832,15 +48832,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:45:23.164Z",
     "scrapedAt": "2026-03-23T08:56:21.773Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2a59df1b4fc5f830-tech-lead-android-core-product-ho-chi-minh-city-vietnam-at-speechify?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b839f4bbea9bd355",
     "title": "Staff Analytics Engineer",
-    "company": null,
+    "company": "AlphaSense",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48854,15 +48854,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:45:28.971Z",
     "scrapedAt": "2026-03-23T08:57:48.593Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b839f4bbea9bd355-staff-analytics-engineer-at-alphasense?ref=github",
+    "visibility": "full"
   },
   {
     "id": "6e3bc9c9a850da0c",
     "title": "Entry Level Support Engineer - New Zealand (Potential future opportunity)",
-    "company": null,
+    "company": "New Era Technology",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48874,15 +48874,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:45:38.436Z",
     "scrapedAt": "2026-03-23T08:59:18.336Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/6e3bc9c9a850da0c-entry-level-support-engineer-new-zealand-potential-future-opportunity-at-new-era?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f7bbb4a98de9706d",
     "title": "Tech Lead, Web Core Product & Chrome Extension - Hyderabad, Telangana, India",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48894,15 +48894,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:45:54.584Z",
     "scrapedAt": "2026-03-23T09:00:38.206Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f7bbb4a98de9706d-tech-lead-web-core-product-chrome-extension-hyderabad-telangana-india-at-speechi?ref=github",
+    "visibility": "full"
   },
   {
     "id": "948fd00ff6deba42",
     "title": "Senior Software Engineer",
-    "company": null,
+    "company": "Precision Medicine Group",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48916,15 +48916,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:46:26.211Z",
     "scrapedAt": "2026-03-23T09:02:02.716Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/948fd00ff6deba42-senior-software-engineer-at-precision-medicine-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9d573474a4a45c69",
     "title": "Tech Lead, Web Core Product & Chrome Extension - Ho Chi Minh City, Vietnam",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48937,15 +48937,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:46:32.196Z",
     "scrapedAt": "2026-03-23T09:02:35.759Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9d573474a4a45c69-tech-lead-web-core-product-chrome-extension-ho-chi-minh-city-vietnam-at-speechif?ref=github",
+    "visibility": "full"
   },
   {
     "id": "55813c80cef784d3",
     "title": "Software Engineer, iOS Core Product - Bangalore, Karnataka, India",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48956,15 +48956,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:46:37.968Z",
     "scrapedAt": "2026-03-23T09:02:53.734Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/55813c80cef784d3-software-engineer-ios-core-product-bangalore-karnataka-india-at-speechify?ref=github",
+    "visibility": "full"
   },
   {
     "id": "aa60d05bd548dade",
     "title": "Tech Lead, Android Core Product - Hyderabad, Telangana, India",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48976,15 +48976,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:50:32.913Z",
     "scrapedAt": "2026-03-23T09:08:00.917Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/aa60d05bd548dade-tech-lead-android-core-product-hyderabad-telangana-india-at-speechify?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5a9473c21e29f5c7",
     "title": "Tech Lead, Android Core Product - Bandar Seri Begawan, Brunei",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -48996,15 +48996,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:50:54.159Z",
     "scrapedAt": "2026-03-23T09:08:48.986Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5a9473c21e29f5c7-tech-lead-android-core-product-bandar-seri-begawan-brunei-at-speechify?ref=github",
+    "visibility": "full"
   },
   {
     "id": "127b424ebbab4d63",
     "title": "Software Engineer, Platform - Ho Chi Minh City, Vietnam",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -49018,15 +49018,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T02:52:26.899Z",
     "scrapedAt": "2026-03-23T09:10:40.512Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/127b424ebbab4d63-software-engineer-platform-ho-chi-minh-city-vietnam-at-speechify?ref=github",
+    "visibility": "full"
   },
   {
     "id": "13e4c233b02f4690",
     "title": "Staff Software Engineer, Security Platform",
-    "company": null,
+    "company": "Coinbase",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -49039,15 +49039,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T03:01:13.119Z",
     "scrapedAt": "2026-03-23T09:19:24.281Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/13e4c233b02f4690-staff-software-engineer-security-platform-at-coinbase?ref=github",
+    "visibility": "full"
   },
   {
     "id": "3db30531e1ca43c0",
     "title": "Software Engineer, iOS Core Product - Bandar Seri Begawan, Brunei",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -49058,17 +49058,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T03:01:40.507Z",
     "scrapedAt": "2026-03-23T09:20:49.464Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/3db30531e1ca43c0-software-engineer-ios-core-product-bandar-seri-begawan-brunei-at-speechify?ref=github",
+    "visibility": "full"
   },
   {
     "id": "8737d019700d3292",
     "title": "Advanced AV Installation Technician",
-    "company": null,
+    "company": "New Era Technology",
     "region": "APAC",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$69k–$81k/year",
+    "salaryMin": 68640,
+    "salaryMax": 81120,
     "skills": [
       "Height",
       "Documentation",
@@ -49079,15 +49079,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T03:02:10.183Z",
     "scrapedAt": "2026-03-23T09:21:07.879Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/8737d019700d3292-advanced-av-installation-technician-at-new-era-technology?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4e9bcdf8fa359115",
     "title": "Software Engineer, macOS Core Product - Bandar Seri Begawan, Brunei",
-    "company": null,
+    "company": "Speechify",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -49099,15 +49099,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T03:02:12.828Z",
     "scrapedAt": "2026-03-23T09:21:34.445Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4e9bcdf8fa359115-software-engineer-macos-core-product-bandar-seri-begawan-brunei-at-speechify?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7b6fd0372243a627",
     "title": "Technical Trainer",
-    "company": null,
+    "company": "wiz.io",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -49121,15 +49121,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T12:09:20.316Z",
     "scrapedAt": "2026-03-23T09:27:18.797Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7b6fd0372243a627-technical-trainer-at-wiz-io?ref=github",
+    "visibility": "full"
   },
   {
     "id": "8931febce4257145",
     "title": "Life Safety Service Technician",
-    "company": null,
+    "company": "New Era Technology",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -49140,15 +49140,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T03:11:56.740Z",
     "scrapedAt": "2026-03-23T09:28:27.711Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/8931febce4257145-life-safety-service-technician-at-new-era-technology?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ed57a1ed3b4b75f7",
     "title": "Senior Analytics Engineer (Tableau,SQL)",
-    "company": null,
+    "company": "AlphaSense",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -49161,15 +49161,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T03:13:21.323Z",
     "scrapedAt": "2026-03-23T09:29:47.721Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ed57a1ed3b4b75f7-senior-analytics-engineer-tableau-sql-at-alphasense?ref=github",
+    "visibility": "full"
   },
   {
     "id": "804117d661ce5fef",
     "title": "Legal Consultant - Structured Product / Debt Capital Markets / Global Markets",
-    "company": null,
+    "company": "Axiom",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -49181,15 +49181,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T03:14:24.203Z",
     "scrapedAt": "2026-03-23T09:30:58.224Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/804117d661ce5fef-legal-consultant-structured-product-debt-capital-markets-global-markets-at-axiom?ref=github",
+    "visibility": "full"
   },
   {
     "id": "789141197c7b586f",
     "title": "Principal Software Engineer, AI",
-    "company": null,
+    "company": "AlphaSense",
     "region": "APAC",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -49203,8 +49203,8 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-03-28T03:24:44.983Z",
     "scrapedAt": "2026-03-23T09:36:27.122Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/789141197c7b586f-principal-software-engineer-ai-at-alphasense?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a963dab4d777b7fd",
@@ -54073,7 +54073,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-03-28T06:25:16.584Z",
+    "verifiedAt": "2026-03-29T10:48:11.419Z",
     "scrapedAt": "2026-03-26T04:52:11.299Z",
     "url": null,
     "visibility": "teaser"
@@ -54089,7 +54089,7 @@
     "skills": [],
     "seniority": "staff",
     "ats": "lever",
-    "verifiedAt": "2026-03-28T06:15:06.768Z",
+    "verifiedAt": "2026-03-29T10:14:28.763Z",
     "scrapedAt": "2026-03-26T05:09:09.527Z",
     "url": null,
     "visibility": "teaser"
